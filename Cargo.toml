@@ -1,0 +1,12 @@
+[package]
+name = "wheel"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0 OR MPL-2.0"
+readme = "README.md"
+authors = ["metastable-void"]
+repository = "https://github.com/menhera-org/wheel-rs"
+description = "Wheel algebra library for Rust"
+homepage = "https://github.com/menhera-org/wheel-rs"
+
+[dependencies]
