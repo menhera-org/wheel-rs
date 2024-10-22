@@ -4,7 +4,7 @@
 use wheel::*;
 
 let inf = w64::ONE / w64::ZERO;
-assert_eq(w64::INFINITY, inf);
+assert_eq!(w64::INFINITY, inf);
 ```
 
 ## Types

@@ -1,4 +1,13 @@
 #![cfg_attr(not(test), no_std)]
+//! # Wheel
+//! Wheel algebra library for Rust 
+//! 
+//! ```
+//! use wheel::*;
+//! 
+//! let inf = w64::ONE / w64::ZERO;
+//! assert_eq!(inf, w64::INFINITY);
+//! ```
 
 pub mod fraction;
 pub mod float;

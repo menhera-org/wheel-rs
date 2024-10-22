@@ -1,3 +1,4 @@
+//! Wheel implementation for fractions.
 
 use crate::Wheel;
 

@@ -1,3 +1,5 @@
+//! This module provides a floating point number type that can represent
+//! Wheel algebraic structures.
 
 use crate::Wheel;
 
